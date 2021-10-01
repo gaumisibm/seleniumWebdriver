@@ -1,0 +1,2 @@
+Locating/selecting using text
+//button[text()='Proceed to checkout']

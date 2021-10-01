@@ -1,0 +1,1 @@
+This is a text file that I'll using to read and write the sentences inside the python environment
